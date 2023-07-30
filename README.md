@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="http://some_place.com/image.png](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)" />
-</p>
+<img align="center" alt="coding" width="800" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=)">
 <!-- ![MasterHead](https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=) -->
 <h1 align="center">I'm Roshan Sharma</h1>
 <h3 align="center">Unlocking innovation through the power of programming.</h3>
